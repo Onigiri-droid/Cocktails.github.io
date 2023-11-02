@@ -1,0 +1,14 @@
+// :root{
+//     --el-bg-color-overlay: $background!important;
+// }
+.select{
+    .el-input__wrapper{
+        background-color: $background;
+    }
+    .el-input__inner{
+        color: $text;
+    }
+    .is-focus{
+            background-color: black;
+        }
+}
